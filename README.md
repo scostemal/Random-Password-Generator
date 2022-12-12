@@ -16,7 +16,7 @@ Once all prompts are answered, the user will be presented with a password matchi
 
 # Screenshot of deployed application
 
-[Internal Link]()
+![Application Screenshot](/assets/images/rand-pass-app-screenshot.png)
 
 # Link to deployed application
 
